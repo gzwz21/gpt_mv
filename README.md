@@ -97,10 +97,7 @@ node render_v4.js sheet v4.jpg 40 97 159 199        # v4 预览拼图
 
 - 本项目是**非官方同人作品，仅供学习和交流，不做任何商业用途**。
 - 原曲《world.execute(me);》及其歌词的版权归 **Mili** 所有。本仓库不包含原曲音频、歌词和字幕文件。
-- ChatGPT 是 OpenAI 的商标，本作品与 OpenAI 没有关联。
+- ChatGPT 是 OpenAI 的商标，Claude 是 Anthropic 的商标，本作品与这两家公司都没有关联。
 - 角色插画由 AI 生成。
 - 如有侵权，请联系删除。
 
-## 声明
-
-非官方同人作品，仅供学习交流，非商业用途。与 OpenAI、Anthropic、Mili 均无关联。原曲版权归 Mili 所有，本仓库不分发原曲音频。
